@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="angelos-project-telemetry-jslegacy-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="angelos-project-telemetry-jslegacy-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="angelos-project-telemetry.jsMain" />
+    </root>
+  </artifact>
+</component>
